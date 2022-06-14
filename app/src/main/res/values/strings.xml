@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">notifications</string>
+    <string name="title">Tipos de Notificaciones</string>
+    <string name="bttoast">Toast 1</string>
+    <string name="bttoast1">Toast 2</string>
+    <string name="bttoast2">Toast 3</string>
+    <string name="btsnackbar">Snackbar 1</string>
+    <string name="btsnackbar2">Snackbar 2</string>
+    <string name="btsnackbar3">Snackbar 3</string>
+    <string name="btdialog">C. Diálogo</string>
+    <string name="btdialog2">C. Diálogo 2</string>
+    <string name="btdialog3">C. Diálogo 3</string>
+    <string name="btnotif">Notificación en barra de estado</string>
+</resources>
