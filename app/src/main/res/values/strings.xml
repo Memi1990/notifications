@@ -11,4 +11,9 @@
     <string name="btdialog2">C. Diálogo 2</string>
     <string name="btdialog3">C. Diálogo 3</string>
     <string name="btnotif">Notificación en barra de estado</string>
+    <string name="toastTitle">Soy un Toast</string>
+    <string name="toastDescc">Un toast es una notificación</string>
+    <string name="hellowText">Hello World!</string>
+    <string name="channel_name">Advise</string>
+    <string name="channel_description"></string>
 </resources>
